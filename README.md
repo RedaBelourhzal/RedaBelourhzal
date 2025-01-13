@@ -1,4 +1,4 @@
-**Hi 👋 My name is Reda Belourhzal**
+**Hi, I'm Reda Belourhzal👋**
 ==================================
 
 # **Backend Developer**
@@ -50,7 +50,7 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 </p>
 
 
-## **Socials**
+## 💬 Let's Connect:
 
 <p align="left">
 <a href="https://discord.com/users/kirmizia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 10px" /></a>
