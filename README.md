@@ -1,11 +1,10 @@
 **Hi 👋 My name is Reda Belourhzal**
 ==================================
 
-# **Full-Stack Developer**
+# **Backend Developer**
 
 
-I'm a Full-Stack Developer, facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in large system architecture development and administration, as well as network design and configuration.
-
+I am a Backend Java Spring Boot Developer, focused on delivering high-performance, scalable server-side solutions for a variety of applications. With expertise in Java and the Spring Boot framework, I specialize in building robust APIs, handling data persistence, and ensuring the performance and security of backend systems
 * 🌍  I'm based in Casablanca, Morocco
 * ✉️  You can contact me at [redabelrzal@gmail.com](mailto:redabelrzal@gmail.com)
 
@@ -27,7 +26,7 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="JaVa" style="margin-right: 10px" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" style="margin-right: 10px" /></a>
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a> -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px" /></a>
+<!--<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px" /></a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-right: 10px" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="margin-right: 10px" /></a>
     
