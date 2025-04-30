@@ -1,7 +1,16 @@
 # **Hi, I'm Reda Belourhzal** 👋
 ### **Backend Developer | Java Spring Boot Specialist**
 
-I'm a passionate Backend Developer specializing in Java Spring Boot, dedicated to building high-performance, scalable server-side solutions. With expertise in API development, database management, and system architecture, I create robust backend systems that power modern applications.
+I'm a passionate Backend Engineer with deep expertise in building scalable, high-performance systems using Java and Spring Boot. I specialize in designing and implementing **microservices architectures**, **event-driven systems** with Apache Kafka, and secure **authentication/authorization** solutions using OAuth2 and JWT.
+
+🔹 **Core Expertise**:  
+✔ Microservices Architecture  
+✔ Event-Driven Systems with Apache Kafka  
+✔ RESTful & GraphQL APIs  
+✔ OAuth2, JWT & Spring Security  
+✔ Cloud-Native Development (Docker, Kubernetes)  
+✔ Database Optimization & Caching Strategies  
+
 
 📍 **Based in** Casablanca, Morocco  
 📧 **Contact me** at [redabelrzal@gmail.com](mailto:redabelrzal@gmail.com)  
