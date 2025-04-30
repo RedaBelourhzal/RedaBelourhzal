@@ -45,7 +45,6 @@ I'm a passionate Backend Developer specializing in Java Spring Boot, dedicated t
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedaBelourhzal&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=45,3a1c71,d76d77,ffaf7b&title_color=fff&text_color=fff)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=RedaBelourhzal&theme=radical&hide_border=true&background=45%2C3a1c71%2Cd76d77%2Cffaf7b&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff)
   
 </div>
 
@@ -53,26 +52,6 @@ I'm a passionate Backend Developer specializing in Java Spring Boot, dedicated t
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedaBelourhzal&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 🌟 **Featured Projects**
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaBelourhzal&repo=your-repo-1&theme=radical)](https://github.com/RedaBelourhzal/your-repo-1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaBelourhzal&repo=your-repo-2&theme=radical)](https://github.com/RedaBelourhzal/your-repo-2)
-  
-</div>
-
----
-
-## 📈 **Activity Graph**
-
-![Contribution Snake](https://github.com/RedaBelourhzal/RedaBelourhzal/blob/output/github-contribution-grid-snake.svg)
-
-![3D Contribution Graph](https://github-readme-3d-profile.vercel.app/profile?username=RedaBelourhzal&theme=github)
-
----
 
 ## 🤝 **Let's Connect**
 
