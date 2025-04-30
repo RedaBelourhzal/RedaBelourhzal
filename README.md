@@ -48,7 +48,7 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 
 
 </p>
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RedaBelourhzal&show_icons=true&theme=dark)
 
@@ -56,9 +56,9 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RedaBelourhzal&theme=dark)
 
-## Activity Graph
+## 🌐 Activity Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/RedaBelourhzal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RedaBelourhzal/RedaBelourhzal/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RedaBelourhzal&theme=github)
 
