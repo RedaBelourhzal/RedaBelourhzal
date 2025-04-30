@@ -1,90 +1,94 @@
-**Hi, I'm Reda Belourhzal👋**
-==================================
+# **Hi, I'm Reda Belourhzal** 👋
+### **Backend Developer | Java Spring Boot Specialist**
 
-# **Backend Developer**
+I'm a passionate Backend Developer specializing in Java Spring Boot, dedicated to building high-performance, scalable server-side solutions. With expertise in API development, database management, and system architecture, I create robust backend systems that power modern applications.
 
+📍 **Based in** Casablanca, Morocco  
+📧 **Contact me** at [redabelrzal@gmail.com](mailto:redabelrzal@gmail.com)  
+💼 **LinkedIn** [reda-belourhzal](https://www.linkedin.com/in/reda-belourhzal)
 
-I am a Backend Java Spring Boot Developer, focused on delivering high-performance, scalable server-side solutions for a variety of applications. With expertise in Java and the Spring Boot framework, I specialize in building robust APIs, handling data persistence, and ensuring the performance and security of backend systems
-* 🌍  I'm based in Casablanca, Morocco
-* ✉️  You can contact me at [redabelrzal@gmail.com](mailto:redabelrzal@gmail.com)
+---
 
-<!-- <a href="https://www.twitter.com/AkrimSalah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AkrimSalah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/salahakrim" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/salahakrim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/salahakrim23" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a> -->
+## 🛠️ **Technical Skills**
 
-## 🧰 **Languages and tools**
-
-
+### **Core Competencies**
 <p align="left">
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="c#" style="margin-right: 10px" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="c" style="margin-right: 10px" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" style="margin-right: 10px" /></a>
-    <a href="https://typescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TS" style="margin-right: 10px" /></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Git" style="margin-right: 10px" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="JaVa" style="margin-right: 10px" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" style="margin-right: 10px" /></a>
-<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a> -->
-<!--<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px" /></a> -->
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-right: 10px" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="margin-right: 10px" /></a>
-    
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="margin-right: 10px" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" style="margin-right: 10px" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" style="margin-right: 10px" /></a>
-<a href="https://www.react.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Reactjs" /></a>
-<a href="[https://firebase.google.com/](https://www.mongodb.com/fr-fr)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="mongodb" style="margin-right: 10px" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" style="margin-right: 10px" /></a>
-<a href="[https://flutter.dev/](https://nodejs.org/en)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="nodejs" style="margin-right: 10px" /></a>
-<!-- <a  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="nodejs" style="margin-right: 10px" /></a>-->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="margin-right: 10px" /></a>
-
-
-
-
-
-
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RedaBelourhzal&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedaBelourhzal&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=RedaBelourhzal&theme=dark)
-
-## 🌐 Activity Graph
-
-![Snake animation](https://github.com/RedaBelourhzal/RedaBelourhzal/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RedaBelourhzal&theme=github)
-
-## 💬 Let's Connect:
-
+### **Additional Skills**
 <p align="left">
-<a href="https://discord.com/users/kirmizia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 10px" /></a>
-<!--<a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 10px" /></a> -->
-<!-- <a href="https://github.com/RedaBelourhzal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px" /></a> -->
-<!-- <a href="http://www.instagram.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 10px" /></a> -->
-    <a href="(https://twitter.com/RedaBelourhzal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="margin-right: 10px" /></a>
-<a href="https://www.linkedin.com/in/reda-belourhzal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 10px" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
+---
 
-<!-- ### Badges
+## 📊 **GitHub Analytics**
 
-<b>My GitHub Stats</b>
+<div align="center">
+  
+  ![Reda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedaBelourhzal&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=45,3a1c71,d76d77,ffaf7b&title_color=fff&text_color=fff&icon_color=fff)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedaBelourhzal&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=45,3a1c71,d76d77,ffaf7b&title_color=fff&text_color=fff)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=RedaBelourhzal&theme=radical&hide_border=true&background=45%2C3a1c71%2Cd76d77%2Cffaf7b&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff)
+  
+</div>
 
-<a href="http://www.github.com/salahakrim"><img src="https://github-readme-stats.vercel.app/api?username=salahakrim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="salahakrim's GitHub stats" /></a>
+## 🏆 **GitHub Achievements**
 
-<a href="http://www.github.com/salahakrim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salahakrim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=RedaBelourhzal&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="http://www.github.com/salahakrim"><img src="https://activity-graph.herokuapp.com/graph?username=salahakrim&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/salahakrim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahakrim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🌟 **Featured Projects**
 
-<b>Top Repositories</b>
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaBelourhzal&repo=your-repo-1&theme=radical)](https://github.com/RedaBelourhzal/your-repo-1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaBelourhzal&repo=your-repo-2&theme=radical)](https://github.com/RedaBelourhzal/your-repo-2)
+  
+</div>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
+---
+
+## 📈 **Activity Graph**
+
+![Contribution Snake](https://github.com/RedaBelourhzal/RedaBelourhzal/blob/output/github-contribution-grid-snake.svg)
+
+![3D Contribution Graph](https://github-readme-3d-profile.vercel.app/profile?username=RedaBelourhzal&theme=github)
+
+---
+
+## 🤝 **Let's Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/reda-belourhzal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/RedaBelourhzal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:redabelrzal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discord.com/users/kirmizia" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=RedaBelourhzal&color=blueviolet&style=flat-square)
+  
+</div>
