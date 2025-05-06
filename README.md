@@ -65,7 +65,7 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
 
 ## 🏔 **Contribution Graph**
 
-![Snake Animation](https://github.com/RedaBelourhzal/RedaBelourhzal/blob/output/github-contribution-grid-snake.svg)
+![Isometric Calendar](https://github-contribution-stats.vercel.app/api?username=RedaBelourhzal&theme=github_dark)
 
 ## 🤝 **Let's Connect**
 
