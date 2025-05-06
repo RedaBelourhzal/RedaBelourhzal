@@ -63,7 +63,7 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
 
 ## 🏔 **Contribution Graph**
 
-[![3D Contributions](https://github-readme-3d-profile.vercel.app/profile?username=RedaBelourhzal&theme=github)](https://github.com/RedaBelourhzal)
+![Snake Animation](https://github.com/RedaBelourhzal/RedaBelourhzal/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 **Let's Connect**
 
