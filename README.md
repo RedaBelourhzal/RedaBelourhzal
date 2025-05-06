@@ -63,9 +63,9 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedaBelourhzal&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏔 **Contribution Graph**
+##  **Contribution Graph**
 
-![Isometric Calendar](https://github-contribution-stats.vercel.app/api?username=RedaBelourhzal&theme=github_dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedaBelourhzal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## 🤝 **Let's Connect**
 
