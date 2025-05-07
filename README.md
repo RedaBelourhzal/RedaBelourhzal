@@ -73,9 +73,9 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
   <a href="https://www.linkedin.com/in/reda-belourhzal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x/RedaBelourhzal" target="_blank">
-    <img src="https://img.shields.io/badge/X?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
-  </a>
+ <a href="https://x.com/RedaBelourhzal" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
+</a>
   <a href="mailto:redabelrzal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
