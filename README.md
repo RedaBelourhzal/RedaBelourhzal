@@ -3,7 +3,7 @@
 
 I'm a passionate Backend Engineer with deep expertise in building scalable, high-performance systems using Java and Spring Boot. I specialize in designing and implementing **microservices architectures**, **event-driven systems** with Apache Kafka, and secure **authentication/authorization** solutions using OAuth2 and JWT.
 
-🔹 **Core Expertise**:  
+🔹 **Core Expertise**: 
 ✔ Microservices Architecture  
 ✔ Event-Driven Systems with Apache Kafka  
 ✔ RESTful & GraphQL APIs  
