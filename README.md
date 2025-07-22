@@ -55,7 +55,7 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedaBelourhzal&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff)
 
 
-  ## ⚠️ **Note** : Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  ⚠️ **Note** : Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   
 </div>
