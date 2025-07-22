@@ -52,7 +52,7 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
   
   ![Reda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedaBelourhzal&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=79ff97)
   
-  ![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=RedaBelourhzal&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=45,3a1c71,d76d77,ffaf7b&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api/top-langs/?username=RedaBelourhzal&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff))
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedaBelourhzal&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff)
 
 ![GitHub Coding Streak Tracker](https://streak-stats.demolab.com?user=RedaBelourhzal&theme=radical&hide_border=true&background=30%252C0f0c29%252C302b63
 )
