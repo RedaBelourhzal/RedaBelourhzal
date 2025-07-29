@@ -67,7 +67,7 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
 
 ## 📈 **Contribution Graph**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedaBelourhzal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true&area_color=5BCDEC&hide_title=true&hide_border=true&radius=8&custom_title=My%20Contribution%20Graph&show_points=false&count_private=true&interval=5)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedaBelourhzal&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph)
 
 ## 🤝 **Let's Connect**
 
