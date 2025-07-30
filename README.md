@@ -31,8 +31,26 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="40" style="margin: 10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" style="margin: 10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40" style="margin: 10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="40" style="margin: 10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="margin: 10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="margin: 10px"/> </div>
 
 ☁️ Cloud & Others
-<div align="left"> <!-- AWS --> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonaws.svg" alt="AWS" height="40" style="margin: 10px; filter: invert(14%) sepia(15%) saturate(749%) hue-rotate(186deg) brightness(94%) contrast(92%);" />
- <!-- GraphQL (via CDN) --> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/graphql.svg" alt="GraphQL" height="40" style="margin: 10px; filter: invert(21%) sepia(96%) saturate(1245%) hue-rotate(297deg) brightness(92%) contrast(101%);"/> <!-- OAuth2 fallback (Auth0 icon as a visual substitute) --> <img src="https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/badge.svg" alt="OAuth2/Auth0" height="40" style="margin: 10px"/> </div>
+<div align="left" style="background-color: #000; padding: 10px;">
+  <!-- AWS (white styled) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonaws.svg"
+       alt="AWS"
+       height="40"
+       style="margin: 10px; filter: brightness(0) invert(1);" />
+
+  <!-- GraphQL (pink on dark) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/graphql.svg"
+       alt="GraphQL"
+       height="40"
+       style="margin: 10px; filter: brightness(0) invert(1) sepia(100%) saturate(10000%) hue-rotate(285deg);" />
+
+  <!-- Auth0 logo (for OAuth2) - has native white background -->
+  <img src="https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/badge.svg"
+       alt="OAuth2/Auth0"
+       height="40"
+       style="margin: 10px;" />
+</div>
+
 
 ---
 
