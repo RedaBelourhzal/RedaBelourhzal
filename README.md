@@ -60,10 +60,6 @@ I'm a passionate Backend Engineer with deep expertise in building scalable, high
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedaBelourhzal&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 📈 **Contribution Graph**
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedaBelourhzal&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph)
-
 ## 🤝 **Let's Connect**
 
 <p align="center">
